@@ -5,3 +5,7 @@
 </p>  
 
 # Blockchain-Terminologies - O
+- OpCode
+- OnChain
+- OffChain
+- Oracles
