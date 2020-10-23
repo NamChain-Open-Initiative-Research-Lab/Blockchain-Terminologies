@@ -5,3 +5,7 @@
 </p>  
 
 # Blockchain-Terminologies - I
+- Integrity
+- Immutability
+- ICO
+- ISO 22739:2020
