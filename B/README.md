@@ -5,3 +5,12 @@
 </p>  
 
 # Blockchain-Terminologies - B
+- Bitcoin
+- Block
+- Block Data
+- Block Header 
+- Block Reward
+- Block Interval
+- Blockchain Explorer
+- BIP 
+- babbage
