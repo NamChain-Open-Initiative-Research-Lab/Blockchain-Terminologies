@@ -5,3 +5,5 @@
 </p>  
 
 # Blockchain-Terminologies - G
+- Genesis Block
+- Gas
