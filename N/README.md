@@ -5,3 +5,7 @@
 </p>  
 
 # Blockchain-Terminologies - N
+- Node
+- Nonce
+- Non-Repudiation
+- Non-Fungible Tokens
