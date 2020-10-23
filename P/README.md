@@ -5,3 +5,13 @@
 </p>  
 
 # Blockchain-Terminologies - P
+- Private Key
+- Public Key
+- Public Key Cryptography
+- Peer-to-Peer
+- Permissionless
+- Permissioned
+- PoW
+- PoS
+- PBFT
+- Paper Wallet
