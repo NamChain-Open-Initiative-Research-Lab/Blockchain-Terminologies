@@ -5,3 +5,6 @@
 </p>  
 
 # Blockchain-Terminologies - T
+- Transaction
+- Transaction Fees
+- Testnet
