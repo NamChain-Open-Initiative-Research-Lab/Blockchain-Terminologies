@@ -5,3 +5,8 @@
 </p>  
 
 # Blockchain-Terminologies - E
+- ECDSA
+- Ethereum
+- EVM
+- EIP
+- ERC
