@@ -5,3 +5,6 @@
 </p>  
 
 # Blockchain-Terminologies - H
+- Hash Rate
+- Hyperledger
+- Hardware Wallet
