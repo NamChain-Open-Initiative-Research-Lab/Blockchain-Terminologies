@@ -5,3 +5,9 @@
 </p>  
 
 # Blockchain-Terminologies - F
+- Fault Tolerant
+- Full Node
+- Forking
+- Faucet
+- finney
+- Fungible Tokens
