@@ -5,3 +5,13 @@
 </p>  
 
 # Blockchain-Terminologies - C
+- Cryptography
+- Confidentiality
+- Cryptographic Hash Function
+- Cryptocurrency
+- Cryptoasset
+- Consensus
+- Confirmed Block
+- Coinbase Transaction
+- Chaincode
+- Consortium Blockchain
