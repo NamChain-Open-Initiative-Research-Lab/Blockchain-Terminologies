@@ -5,3 +5,11 @@
 </p>  
 
 # Blockchain-Terminologies - A
+- Authorization
+- Authentication
+- Availability
+- Altcoin
+- Address
+- Account
+- ABI
+- ASIC
