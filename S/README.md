@@ -5,3 +5,13 @@
 </p>  
 
 # Blockchain-Terminologies - S
+- Simple Node
+- satoshi
+- shannon
+- szabo
+- Subchain
+- Sidechain
+- Smart Contract
+- Solidity
+- State Channel
+- Scalability
