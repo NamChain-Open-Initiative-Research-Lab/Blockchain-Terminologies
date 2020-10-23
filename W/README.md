@@ -5,3 +5,7 @@
 </p>  
 
 # Blockchain-Terminologies - W
+- Wallet
+- World State
+- wei
+- Web3.js
