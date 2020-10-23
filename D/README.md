@@ -5,3 +5,13 @@
 </p>  
 
 # Blockchain-Terminologies - D
+- Double Spending
+- Decentralization
+- Distributed
+- Digital Signature
+- DLT
+- DAG
+- Difficulty
+- DApp
+- DAO
+- DeFi
