@@ -5,3 +5,4 @@
 </p>  
 
 # Blockchain-Terminologies - R
+- Reliability
