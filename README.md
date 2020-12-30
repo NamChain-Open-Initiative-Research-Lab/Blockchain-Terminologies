@@ -4,6 +4,9 @@
 <img src="https://1.bp.blogspot.com/-Q06fUm3POXI/X6EgaglaGXI/AAAAAAAAAoY/BfsHO6P5-bAz05Efl7EFLrdxDzU7yTiYgCLcBGAsYHQ/s1080/BCT-0.jpg" width="400" align="center">
 </p>  
 
+<b>Blockchain</b> is a data structure similar to linked list, every block is a container linked to each other cryptographically. <br/>
+<b>Blockchain</b> is a decentralized computation and distributed ledger platform to immutably store transactions in a verifiable manner efficiently, through rational decision making process among multiple parties in an open and public system.
+
 # Blockchain-Terminologies
 
 - [A](A)
