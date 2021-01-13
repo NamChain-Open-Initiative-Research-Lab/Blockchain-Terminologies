@@ -35,3 +35,6 @@
 - [X](X) 
 - [Y](Y) 
 - [Z](Z)
+
+# Cite as 
+Ramaguru R, Minu M. Blockchain Terminologies. நம்Chain Open Initiative Research Lab (2021) 
