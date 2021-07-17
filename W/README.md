@@ -5,7 +5,13 @@
 </p>  
 
 # Blockchain-Terminologies - W
-- Wallet
-- World State
-- wei
-- Web3.js
+
+
+- <b>Wallet</b> A (Crypto) Wallet is a device, physical medium, program or service which stores the public and/or private keys that can be used to track ownership & transactions, receive & send cryptocurrencies or cryptoassets within a distributed network like Blockchain. 
+
+- <b>World State</b> is a database holding the current value of the attributes of a business object as a unique ledger state. This ledger state records set of attributes in key-value pairs as these current value of an object is usually required by the programs.
+
+
+- <b>wei</b> is the sub-unit of ether, named after Wei Dai, a computer scientist & cryptographer who created the b-money cryptocurrency system. One wei is 10 ^ -18 ETH.
+
+- <b>Web3.js</b> is a collection of java script libraries that allows interaction with a local or remote ethereum node. Using a HTTP or RPC connection to Ethereum Blockchain to retrieve user accounts, send transactions, and interact with smart contracts. 
