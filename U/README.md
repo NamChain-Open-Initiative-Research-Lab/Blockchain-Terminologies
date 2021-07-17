@@ -5,4 +5,5 @@
 </p>  
 
 # Blockchain-Terminologies - U
-- UTXO
+
+- <b>UTXO</b> an Unspent Transaction Output, is the amount of digital currency remaining after a cryptocurrency transaction is executed. In other words, a UTXO defines an output of a blockchain transaction that has not been spent, which can be used as an input in a new transaction.
