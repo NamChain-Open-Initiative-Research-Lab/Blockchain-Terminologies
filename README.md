@@ -5,7 +5,7 @@
 </p>  
 
 <b>நC-BT: Blockchain</b> is a data structure similar to linked list, every block is a container linked to each other cryptographically. <br/>
-<b>Blockchain Technology</b> is a decentralized computation and distributed ledger platform to immutably store transactions in a verifiable manner efficiently, through rational decision making process among multiple parties in an open and public system.
+<b>Blockchain Technology</b> is a decentralized computation, and distributed ledger platform that efficiently immutably stores transactions in a verifiable manner through a rational decision-making process among multiple parties in an open and public system 
 
 # Blockchain-Terminologies
 
